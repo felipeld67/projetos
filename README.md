@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipeld67&show_icons=true&count_private=true&hide_border=true&title_color=60bd89&icon_color=60bd89&text_color=c9d1d9&bg_color=0d1117" alt="Felipe LDonato github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=60bd89&text_color=60bd89&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeld67&layout=compact&hide_border=true&title_color=60bd89&text_color=60bd89&bg_color=0d1117" />
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=felipeld67&theme=gotham&hide_border=true&area=true)
