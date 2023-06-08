@@ -16,7 +16,7 @@
 ### Connect With me:
 <p align="left">
 <a href="https://www.linkedin.com/in/felipe-lopes-donato-a1b202279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-lopes-donato-7032611b9/" height="30" width="40" /></a>
-<a href="https://instagram/felipelopesd6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram/felipelopesd6" height="30" width="40" /></a>
+<a href="https://instagram/fldonato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram/fldonato" height="30" width="40" /></a>
 </p>
   
 ### Main skills:
