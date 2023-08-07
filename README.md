@@ -2,7 +2,7 @@
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeld67&show=reviews&theme=shadow_green&show_icons=true&align=center)
 
-<div class='container'>
+<div class='container' align="center" >
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=felipeld67&show_icons=true&theme=tokyonight" />
 &nbsp;
 &nbsp;
