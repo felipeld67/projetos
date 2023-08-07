@@ -1,9 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e61300&height=180&section=header&text=Felipe+Lopes+Donato&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<div align="center" >  
-  
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeld67&show=reviews&theme=shadow_green&show_icons=true&align=center)
-</div>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipeld67&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
