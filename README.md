@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e61300&height=180&section=header&text=Felipe+Lopes+Donato&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=60bd89&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Lopes+Donato;I'm+22+years+old;I+from+Brasil,+BA;I+study+Software+Enginner+at+UNOPAR;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeld67&show=reviews&theme=shadow_green&show_icons=true&align=center)
 
 <div class='container'>
