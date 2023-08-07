@@ -40,7 +40,7 @@
   &nbsp;
     <img style="height: 5%; width: 5%;" class="img" src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/Github.png"/>
   &nbsp;
-  <img style="height: 5%; width: 5%;" class="img" src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/Github.png"/>
+  <img style="height: 5%; width: 5%;" class="img" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"/>
   &nbsp;
   
 </div>
