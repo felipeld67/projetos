@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e61300&height=180&section=header&text=Felipe+Lopes+Donato&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeld67&show=reviews&theme=shadow_green&show_icons=true&align=center)
-
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=felipeld67&show_icons=true&theme=blue-green" />
 &nbsp;
