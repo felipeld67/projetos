@@ -39,7 +39,7 @@
   &nbsp;
   <img style="height: 5%; width: 5%;" class="img" src="https://camo.githubusercontent.com/c04208976fe84f5bfd2111ba446acf65ff373c962ed80bbf7aa028820a5bbd79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667"/>
   &nbsp;
-    <img style="height: 5%; width: 5%;" class="img" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg7"/>
+    <img style="height: 5%; width: 5%;" class="img" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"/>
   &nbsp;
 </div>
 
