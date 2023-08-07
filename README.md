@@ -25,16 +25,25 @@
   &nbsp;
   <img style="height: 5%; width: 5%;" class="img" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"/>
   &nbsp;
-
-  
 </div>
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+### 🧰  My toolbox:
+
+<div>
+  <img style="height: 5%; width: 5%;" class="img" src="[https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg](https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667)"/>
+  &nbsp;
+    <img style="height: 5%; width: 5%;" class="img" src="https://camo.githubusercontent.com/cdd289ae72f33665800bc6a63936d5afa0454214d520945780894151112a055f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667"/>
+  &nbsp;
+    <img style="height: 5%; width: 5%;" class="img" src="https://camo.githubusercontent.com/ae5fcd5f0575d2efc2470ccab7a0f06081410681905032a0cfaaaf4406f0a0d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f70686f746f73686f702f70686f746f73686f702d706c61696e2e737667"/>
+  &nbsp;
+    <img style="height: 5%; width: 5%;" class="img" src="https://camo.githubusercontent.com/ea3aec66ee8a6c9ac20e60c88cfe5a6a00ba677abd5744c7025462a124a50f92/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f696c6c7573747261746f722f696c6c7573747261746f722d706c61696e2e737667"/>
+  &nbsp;
+    <img style="height: 5%; width: 5%;" class="img" src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/Github.png"/>
+  &nbsp;
+  <img style="height: 5%; width: 5%;" class="img" src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/Github.png"/>
+  &nbsp;
+  
+</div>
 
 ### Other Knowledge:
   
