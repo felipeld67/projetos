@@ -14,8 +14,7 @@
 <a href="https://www.instagram.com/fldonato/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://instagram/fldonato" /></a>
 <a href="https://www.instagram.com/fldonato/" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 <a href="https://www.instagram.com/fldonato/" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> 
-<a href="https://www.instagram.com/fldonato/" target="blank"><img src="  https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
-
+<a href="https://www.instagram.com/fldonato/" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
 </p>
 
 ### 🧰 -> My toolbox:
