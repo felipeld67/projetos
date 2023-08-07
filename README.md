@@ -2,6 +2,12 @@
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeld67&show=reviews&theme=shadow_green&show_icons=true&align=center)
 
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=felipeld67&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeld67&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipeld67&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
