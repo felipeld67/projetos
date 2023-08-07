@@ -9,10 +9,6 @@
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeld67&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipeld67&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 ### Connect With me:
 <p align="left">
 <a href="https://www.linkedin.com/in/felipe-lopes-donato-a1b202279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-lopes-donato-7032611b9/" height="30" width="40" /></a>
